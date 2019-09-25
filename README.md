@@ -13,7 +13,7 @@ The present binaries are free and open source to use.
 
 1. Download .zip for windows installation and .tar for Debian. 
 2. Unzip and generate nexus war or else copy unzipped folder to desired location.
-3. Deploy war to existing server to server the application or else run nexus console from bin directory to start nexus.
+3. Deploy war to existing server to serve the application or else run nexus console from bin directory to start nexus.
 4. Goto nexus/bin/jsw/config/wrapper.conf and provide java path.
 5. Refer the link for additional configuration information. 
  --> https://help.sonatype.com/repomanager2/installing-and-running/running
